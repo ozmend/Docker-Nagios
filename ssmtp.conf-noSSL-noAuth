@@ -1,0 +1,5 @@
+# No-Auth No-SSL
+root=nagios@example.com
+mailhub=smtp.example.com:25
+UseTLS=NO
+FromLineOverride=YES

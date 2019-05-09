@@ -1,0 +1,7 @@
+# Auth No-SSL
+root=nagios@example.com
+mailhub=smtp.example.com:25
+AuthUser=username@mysite.com
+AuthPass=password
+AuthMethod=LOGIN
+UseTLS=NO
