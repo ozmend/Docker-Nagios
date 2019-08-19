@@ -2,7 +2,7 @@
 
 1- Edit ssmtp.conf, revaliases and contacts.cfg according to your environment.
 
-2- *Create /opt/nagios/external directory to mount on image to change objects(add,remove hosts, switchs etc.)*
+2- *Create /opt/nagios/external directory to mount on image to change objects(add,remove hosts, switches etc.)*
 
 ---
 
